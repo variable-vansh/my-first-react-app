@@ -6,7 +6,10 @@ import { createRoot } from 'react-dom/client'
 // import Kermit from './kermit_img.jsx'
 // import PlayingAround from './Playing.jsx'
 // import './index.css'
-import App from './listThing'
+// import App from './listThing'
+// import TodoList from './learningKeys'
+import App from './buttonStuff'
+
 
 // createRoot(document.getElementById('root')).render(
 //   <StrictMode>
@@ -14,6 +17,23 @@ import App from './listThing'
 //     <Test/>
 //     <Kermit/> */}
 //     <PlayingAround/>
+//   </StrictMode>,
+// )
+
+
+// createRoot(document.getElementById('root')).render(
+//   <StrictMode>
+//     {
+//       <App/>
+//     }
+//   </StrictMode>,
+// )
+
+// createRoot(document.getElementById('root')).render(
+//   <StrictMode>
+//     {
+//       <TodoList/>
+//     }
 //   </StrictMode>,
 // )
 
